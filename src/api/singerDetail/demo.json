@@ -1,0 +1,1710 @@
+{
+  "singerData": {
+    "singer_name": "陈雪凝",
+    "singer_mid": "004V53Ga0bV65j",
+    "singer_pmid": "004V53Ga0bV65j_1",
+    "singer_id": 1473880,
+    "SingerDesc": "音乐人陈雪凝（SherlyChan）&#10;2001年生&#32;&#10;2017年只身下成都开始音乐创作之路&#10;2018年4月发行首张录音室专辑《拾陆》，随之完成为期三个月的全国29城巡演",
+    "list": [
+      {
+        "songInfo": {
+          "id": 228859369,
+          "type": 0,
+          "mid": "003xl9d83fVzUJ",
+          "name": "你的酒馆对我打了烊",
+          "title": "你的酒馆对我打了烊",
+          "subtitle": "",
+          "singer": [
+            {
+              "id": 1473880,
+              "mid": "004V53Ga0bV65j",
+              "name": "陈雪凝",
+              "title": "陈雪凝",
+              "type": 1,
+              "uin": 0
+            }
+          ],
+          "album": {
+            "id": 6273737,
+            "mid": "004NDHly42oXD2",
+            "name": "你的酒馆对我打了烊",
+            "title": "你的酒馆对我打了烊",
+            "subtitle": "",
+            "time_public": "2019-02-19",
+            "pmid": "004NDHly42oXD2_1"
+          },
+          "mv": {
+            "id": 0,
+            "vid": "",
+            "name": "",
+            "title": "",
+            "vt": 0
+          },
+          "interval": 251,
+          "isonly": 0,
+          "language": 0,
+          "genre": 0,
+          "index_cd": 0,
+          "index_album": 1,
+          "time_public": "2019-02-19",
+          "status": 0,
+          "fnote": 4009,
+          "file": {
+            "media_mid": "003xl9d83fVzUJ",
+            "size_24aac": 0,
+            "size_48aac": 1535202,
+            "size_96aac": 3084150,
+            "size_192ogg": 6070716,
+            "size_192aac": 6064242,
+            "size_128mp3": 4024329,
+            "size_320mp3": 10060495,
+            "size_ape": 0,
+            "size_flac": 29082568,
+            "size_dts": 0,
+            "size_try": 0,
+            "try_begin": 24542,
+            "try_end": 67653,
+            "url": "",
+            "size_hires": 0,
+            "hires_sample": 0,
+            "hires_bitdepth": 0,
+            "b_30s": 0,
+            "e_30s": 0,
+            "size_96ogg": 3076309
+          },
+          "pay": {
+            "pay_month": 1,
+            "price_track": 200,
+            "price_album": 0,
+            "pay_play": 0,
+            "pay_down": 1,
+            "pay_status": 0,
+            "time_free": 0
+          },
+          "action": {
+            "switch": 17413891,
+            "msgid": 14,
+            "alert": 2,
+            "icons": 8396668,
+            "msgshare": 0,
+            "msgfav": 0,
+            "msgdown": 0,
+            "msgpay": 6
+          },
+          "ksong": {
+            "id": 5427132,
+            "mid": "0020NaOd442zGV"
+          },
+          "volume": {
+            "gain": -7.804,
+            "peak": 0.997,
+            "lra": 5.297
+          },
+          "label": "0",
+          "url": "",
+          "bpm": 84,
+          "version": 0,
+          "trace": "",
+          "data_type": 0,
+          "modify_stamp": 0,
+          "pingpong": "",
+          "aid": 0,
+          "ppurl": "",
+          "tid": 0,
+          "ov": 0,
+          "sa": 0,
+          "es": "",
+          "singername": "陈雪凝"
+        }
+      },
+      {
+        "songInfo": {
+          "id": 228849602,
+          "type": 0,
+          "mid": "0021rBlZ1gQiLy",
+          "name": "绿色",
+          "title": "绿色",
+          "subtitle": "",
+          "singer": [
+            {
+              "id": 1473880,
+              "mid": "004V53Ga0bV65j",
+              "name": "陈雪凝",
+              "title": "陈雪凝",
+              "type": 1,
+              "uin": 0
+            }
+          ],
+          "album": {
+            "id": 6271293,
+            "mid": "0010UePb4dyfoi",
+            "name": "绿色",
+            "title": "绿色",
+            "subtitle": "",
+            "time_public": "2019-02-14",
+            "pmid": "0010UePb4dyfoi_1"
+          },
+          "mv": {
+            "id": 0,
+            "vid": "",
+            "name": "",
+            "title": "",
+            "vt": 0
+          },
+          "interval": 269,
+          "isonly": 0,
+          "language": 0,
+          "genre": 1,
+          "index_cd": 0,
+          "index_album": 1,
+          "time_public": "2019-02-14",
+          "status": 0,
+          "fnote": 4009,
+          "file": {
+            "media_mid": "001luHbo2nQT1Y",
+            "size_24aac": 0,
+            "size_48aac": 1644060,
+            "size_96aac": 3288843,
+            "size_192ogg": 6135096,
+            "size_192aac": 6532995,
+            "size_128mp3": 4314782,
+            "size_320mp3": 10786671,
+            "size_ape": 0,
+            "size_flac": 31928214,
+            "size_dts": 0,
+            "size_try": 960887,
+            "try_begin": 56984,
+            "try_end": 87750,
+            "url": "",
+            "size_hires": 0,
+            "hires_sample": 0,
+            "hires_bitdepth": 0,
+            "b_30s": 0,
+            "e_30s": 60000,
+            "size_96ogg": 3127568
+          },
+          "pay": {
+            "pay_month": 1,
+            "price_track": 200,
+            "price_album": 0,
+            "pay_play": 0,
+            "pay_down": 1,
+            "pay_status": 0,
+            "time_free": 0
+          },
+          "action": {
+            "switch": 17413891,
+            "msgid": 14,
+            "alert": 2,
+            "icons": 8396668,
+            "msgshare": 0,
+            "msgfav": 0,
+            "msgdown": 0,
+            "msgpay": 6
+          },
+          "ksong": {
+            "id": 5507761,
+            "mid": "004DhHec0CTany"
+          },
+          "volume": {
+            "gain": -9.771,
+            "peak": 0.99,
+            "lra": 4.373
+          },
+          "label": "0",
+          "url": "",
+          "bpm": 61,
+          "version": 0,
+          "trace": "",
+          "data_type": 0,
+          "modify_stamp": 0,
+          "pingpong": "",
+          "aid": 0,
+          "ppurl": "",
+          "tid": 0,
+          "ov": 0,
+          "sa": 0,
+          "es": "",
+          "singername": "陈雪凝"
+        }
+      },
+      {
+        "songInfo": {
+          "id": 231979025,
+          "type": 0,
+          "mid": "003oaKCi1TUwVK",
+          "name": "灰姑娘",
+          "title": "灰姑娘",
+          "subtitle": "",
+          "singer": [
+            {
+              "id": 1473880,
+              "mid": "004V53Ga0bV65j",
+              "name": "陈雪凝",
+              "title": "陈雪凝",
+              "type": 1,
+              "uin": 0
+            }
+          ],
+          "album": {
+            "id": 6734286,
+            "mid": "002od0aF16hAeK",
+            "name": "灰姑娘",
+            "title": "灰姑娘",
+            "subtitle": "",
+            "time_public": "2019-05-09",
+            "pmid": "002od0aF16hAeK_1"
+          },
+          "mv": {
+            "id": 0,
+            "vid": "",
+            "name": "",
+            "title": "",
+            "vt": 0
+          },
+          "interval": 293,
+          "isonly": 0,
+          "language": 0,
+          "genre": 0,
+          "index_cd": 0,
+          "index_album": 1,
+          "time_public": "2019-05-09",
+          "status": 0,
+          "fnote": 4009,
+          "file": {
+            "media_mid": "003oaKCi1TUwVK",
+            "size_24aac": 0,
+            "size_48aac": 1790694,
+            "size_96aac": 3584030,
+            "size_192ogg": 7182692,
+            "size_192aac": 7092391,
+            "size_128mp3": 4693039,
+            "size_320mp3": 11732308,
+            "size_ape": 0,
+            "size_flac": 57444521,
+            "size_dts": 0,
+            "size_try": 960887,
+            "try_begin": 63615,
+            "try_end": 114492,
+            "url": "",
+            "size_hires": 0,
+            "hires_sample": 0,
+            "hires_bitdepth": 0,
+            "b_30s": 0,
+            "e_30s": 60000,
+            "size_96ogg": 3554404
+          },
+          "pay": {
+            "pay_month": 1,
+            "price_track": 200,
+            "price_album": 0,
+            "pay_play": 0,
+            "pay_down": 1,
+            "pay_status": 0,
+            "time_free": 0
+          },
+          "action": {
+            "switch": 17413891,
+            "msgid": 14,
+            "alert": 2,
+            "icons": 8396668,
+            "msgshare": 0,
+            "msgfav": 0,
+            "msgdown": 0,
+            "msgpay": 6
+          },
+          "ksong": {
+            "id": 5708338,
+            "mid": "0036mmpF23Rera"
+          },
+          "volume": {
+            "gain": -8.267,
+            "peak": 0.953,
+            "lra": 7.008
+          },
+          "label": "0",
+          "url": "",
+          "bpm": 71,
+          "version": 0,
+          "trace": "",
+          "data_type": 0,
+          "modify_stamp": 0,
+          "pingpong": "",
+          "aid": 0,
+          "ppurl": "",
+          "tid": 0,
+          "ov": 0,
+          "sa": 0,
+          "es": "",
+          "singername": "陈雪凝"
+        }
+      },
+      {
+        "songInfo": {
+          "id": 214080348,
+          "type": 0,
+          "mid": "001RHWbh22nFd5",
+          "name": "没有人心疼我",
+          "title": "没有人心疼我",
+          "subtitle": "",
+          "singer": [
+            {
+              "id": 1473880,
+              "mid": "004V53Ga0bV65j",
+              "name": "陈雪凝",
+              "title": "陈雪凝",
+              "type": 1,
+              "uin": 0
+            }
+          ],
+          "album": {
+            "id": 4072812,
+            "mid": "002DVtja3gw11r",
+            "name": "没有人心疼我",
+            "title": "没有人心疼我",
+            "subtitle": "",
+            "time_public": "2018-06-28",
+            "pmid": "002DVtja3gw11r_1"
+          },
+          "mv": {
+            "id": 0,
+            "vid": "",
+            "name": "",
+            "title": "",
+            "vt": 0
+          },
+          "interval": 269,
+          "isonly": 0,
+          "language": 0,
+          "genre": 1,
+          "index_cd": 0,
+          "index_album": 0,
+          "time_public": "2018-06-28",
+          "status": 0,
+          "fnote": 4009,
+          "file": {
+            "media_mid": "003yVk0D1cMMWT",
+            "size_24aac": 0,
+            "size_48aac": 1645544,
+            "size_96aac": 3308955,
+            "size_192ogg": 6128659,
+            "size_192aac": 6532792,
+            "size_128mp3": 4306021,
+            "size_320mp3": 10764744,
+            "size_ape": 0,
+            "size_flac": 29601266,
+            "size_dts": 0,
+            "size_try": 960887,
+            "try_begin": 78149,
+            "try_end": 107275,
+            "url": "",
+            "size_hires": 0,
+            "hires_sample": 0,
+            "hires_bitdepth": 0,
+            "b_30s": 0,
+            "e_30s": 60000,
+            "size_96ogg": 3115085
+          },
+          "pay": {
+            "pay_month": 1,
+            "price_track": 200,
+            "price_album": 0,
+            "pay_play": 0,
+            "pay_down": 1,
+            "pay_status": 0,
+            "time_free": 0
+          },
+          "action": {
+            "switch": 17413891,
+            "msgid": 14,
+            "alert": 2,
+            "icons": 8396668,
+            "msgshare": 0,
+            "msgfav": 0,
+            "msgdown": 0,
+            "msgpay": 6
+          },
+          "ksong": {
+            "id": 3855491,
+            "mid": "003rgCdM1kArkB"
+          },
+          "volume": {
+            "gain": -8.529,
+            "peak": 1,
+            "lra": 8.993
+          },
+          "label": "0",
+          "url": "",
+          "bpm": 63,
+          "version": 0,
+          "trace": "",
+          "data_type": 0,
+          "modify_stamp": 0,
+          "pingpong": "",
+          "aid": 0,
+          "ppurl": "",
+          "tid": 0,
+          "ov": 0,
+          "sa": 0,
+          "es": "",
+          "singername": "陈雪凝"
+        }
+      },
+      {
+        "songInfo": {
+          "id": 203828223,
+          "type": 0,
+          "mid": "003HLsaI1SJMjm",
+          "name": "假装",
+          "title": "假装",
+          "subtitle": "",
+          "singer": [
+            {
+              "id": 1473880,
+              "mid": "004V53Ga0bV65j",
+              "name": "陈雪凝",
+              "title": "陈雪凝",
+              "type": 1,
+              "uin": 0
+            }
+          ],
+          "album": {
+            "id": 2237434,
+            "mid": "001rlmpG4dZA2U",
+            "name": "假装",
+            "title": "假装",
+            "subtitle": "",
+            "time_public": "2017-09-09",
+            "pmid": "001rlmpG4dZA2U_1"
+          },
+          "mv": {
+            "id": 0,
+            "vid": "",
+            "name": "",
+            "title": "",
+            "vt": 0
+          },
+          "interval": 264,
+          "isonly": 0,
+          "language": 0,
+          "genre": 1,
+          "index_cd": 0,
+          "index_album": 0,
+          "time_public": "2017-09-09",
+          "status": 0,
+          "fnote": 4010,
+          "file": {
+            "media_mid": "003ZtSzi3Hj4rj",
+            "size_24aac": 0,
+            "size_48aac": 1615644,
+            "size_96aac": 3231287,
+            "size_192ogg": 5836252,
+            "size_192aac": 6413736,
+            "size_128mp3": 4240385,
+            "size_320mp3": 10600679,
+            "size_ape": 0,
+            "size_flac": 27395150,
+            "size_dts": 0,
+            "size_try": 0,
+            "try_begin": 84887,
+            "try_end": 124874,
+            "url": "",
+            "size_hires": 0,
+            "hires_sample": 0,
+            "hires_bitdepth": 0,
+            "b_30s": 0,
+            "e_30s": 0,
+            "size_96ogg": 2971360
+          },
+          "pay": {
+            "pay_month": 0,
+            "price_track": 0,
+            "price_album": 0,
+            "pay_play": 0,
+            "pay_down": 0,
+            "pay_status": 0,
+            "time_free": 0
+          },
+          "action": {
+            "switch": 134283265,
+            "msgid": 3,
+            "alert": 0,
+            "icons": 2621441,
+            "msgshare": 0,
+            "msgfav": 0,
+            "msgdown": 3,
+            "msgpay": 0
+          },
+          "ksong": {
+            "id": 2988292,
+            "mid": "001zYiTG4Mj9Bk"
+          },
+          "volume": {
+            "gain": -7.176,
+            "peak": 0.999,
+            "lra": 9.229
+          },
+          "label": "0",
+          "url": "",
+          "bpm": 95,
+          "version": 0,
+          "trace": "",
+          "data_type": 0,
+          "modify_stamp": 0,
+          "pingpong": "",
+          "aid": 0,
+          "ppurl": "",
+          "tid": 0,
+          "ov": 1,
+          "sa": 8,
+          "es": "",
+          "singername": "陈雪凝"
+        }
+      },
+      {
+        "songInfo": {
+          "id": 247892671,
+          "type": 0,
+          "mid": "003BZXIW4XsIGF",
+          "name": "所见之日乃是终止之时",
+          "title": "所见之日乃是终止之时",
+          "subtitle": "",
+          "singer": [
+            {
+              "id": 1473880,
+              "mid": "004V53Ga0bV65j",
+              "name": "陈雪凝",
+              "title": "陈雪凝",
+              "type": 1,
+              "uin": 0
+            }
+          ],
+          "album": {
+            "id": 9714342,
+            "mid": "003S1SSi1QZm14",
+            "name": "所见之日乃是终止之时",
+            "title": "所见之日乃是终止之时",
+            "subtitle": "",
+            "time_public": "2019-12-22",
+            "pmid": "003S1SSi1QZm14_1"
+          },
+          "mv": {
+            "id": 0,
+            "vid": "",
+            "name": "",
+            "title": "",
+            "vt": 0
+          },
+          "interval": 269,
+          "isonly": 1,
+          "language": 0,
+          "genre": 0,
+          "index_cd": 0,
+          "index_album": 1,
+          "time_public": "2019-12-22",
+          "status": 0,
+          "fnote": 4009,
+          "file": {
+            "media_mid": "003BZXIW4XsIGF",
+            "size_24aac": 0,
+            "size_48aac": 1636343,
+            "size_96aac": 3282462,
+            "size_192ogg": 6148042,
+            "size_192aac": 6501879,
+            "size_128mp3": 4314814,
+            "size_320mp3": 10786703,
+            "size_ape": 0,
+            "size_flac": 32270979,
+            "size_dts": 0,
+            "size_try": 960887,
+            "try_begin": 29041,
+            "try_end": 55137,
+            "url": "",
+            "size_hires": 0,
+            "hires_sample": 0,
+            "hires_bitdepth": 0,
+            "b_30s": 0,
+            "e_30s": 60000,
+            "size_96ogg": 3114459
+          },
+          "pay": {
+            "pay_month": 1,
+            "price_track": 200,
+            "price_album": 0,
+            "pay_play": 0,
+            "pay_down": 1,
+            "pay_status": 0,
+            "time_free": 0
+          },
+          "action": {
+            "switch": 17413891,
+            "msgid": 14,
+            "alert": 2,
+            "icons": 8396668,
+            "msgshare": 0,
+            "msgfav": 0,
+            "msgdown": 0,
+            "msgpay": 6
+          },
+          "ksong": {
+            "id": 6973641,
+            "mid": "003d7v0o4aNmXb"
+          },
+          "volume": {
+            "gain": -5.626,
+            "peak": 0.973,
+            "lra": 7.523
+          },
+          "label": "0",
+          "url": "",
+          "bpm": 0,
+          "version": 0,
+          "trace": "",
+          "data_type": 0,
+          "modify_stamp": 0,
+          "pingpong": "",
+          "aid": 0,
+          "ppurl": "",
+          "tid": 0,
+          "ov": 0,
+          "sa": 0,
+          "es": "",
+          "singername": "陈雪凝"
+        }
+      },
+      {
+        "songInfo": {
+          "id": 234235088,
+          "type": 0,
+          "mid": "000CLThZ1MBRc1",
+          "name": "别再靠近我了",
+          "title": "别再靠近我了",
+          "subtitle": "",
+          "singer": [
+            {
+              "id": 1473880,
+              "mid": "004V53Ga0bV65j",
+              "name": "陈雪凝",
+              "title": "陈雪凝",
+              "type": 1,
+              "uin": 0
+            }
+          ],
+          "album": {
+            "id": 7137847,
+            "mid": "0037RJbA0NJ0tv",
+            "name": "别再靠近我了",
+            "title": "别再靠近我了",
+            "subtitle": "",
+            "time_public": "2019-07-08",
+            "pmid": "0037RJbA0NJ0tv_1"
+          },
+          "mv": {
+            "id": 0,
+            "vid": "",
+            "name": "",
+            "title": "",
+            "vt": 0
+          },
+          "interval": 273,
+          "isonly": 0,
+          "language": 0,
+          "genre": 0,
+          "index_cd": 0,
+          "index_album": 1,
+          "time_public": "2019-07-08",
+          "status": 0,
+          "fnote": 4009,
+          "file": {
+            "media_mid": "000CLThZ1MBRc1",
+            "size_24aac": 0,
+            "size_48aac": 1670227,
+            "size_96aac": 3337062,
+            "size_192ogg": 6275749,
+            "size_192aac": 6605141,
+            "size_128mp3": 4372059,
+            "size_320mp3": 10929838,
+            "size_ape": 0,
+            "size_flac": 32545450,
+            "size_dts": 0,
+            "size_try": 960887,
+            "try_begin": 69880,
+            "try_end": 97419,
+            "url": "",
+            "size_hires": 0,
+            "hires_sample": 0,
+            "hires_bitdepth": 0,
+            "b_30s": 0,
+            "e_30s": 60000,
+            "size_96ogg": 3156574
+          },
+          "pay": {
+            "pay_month": 1,
+            "price_track": 200,
+            "price_album": 0,
+            "pay_play": 0,
+            "pay_down": 1,
+            "pay_status": 0,
+            "time_free": 0
+          },
+          "action": {
+            "switch": 17413891,
+            "msgid": 14,
+            "alert": 2,
+            "icons": 8396668,
+            "msgshare": 0,
+            "msgfav": 0,
+            "msgdown": 0,
+            "msgpay": 6
+          },
+          "ksong": {
+            "id": 6036736,
+            "mid": "003daCqn3ojRjO"
+          },
+          "volume": {
+            "gain": -8.815,
+            "peak": 1,
+            "lra": 7.307
+          },
+          "label": "0",
+          "url": "",
+          "bpm": 68,
+          "version": 0,
+          "trace": "",
+          "data_type": 0,
+          "modify_stamp": 0,
+          "pingpong": "",
+          "aid": 0,
+          "ppurl": "",
+          "tid": 0,
+          "ov": 0,
+          "sa": 0,
+          "es": "",
+          "singername": "陈雪凝"
+        }
+      },
+      {
+        "songInfo": {
+          "id": 202160758,
+          "type": 0,
+          "mid": "004MLVmy4SFXfH",
+          "name": "白山茶",
+          "title": "白山茶",
+          "subtitle": "",
+          "singer": [
+            {
+              "id": 1473880,
+              "mid": "004V53Ga0bV65j",
+              "name": "陈雪凝",
+              "title": "陈雪凝",
+              "type": 1,
+              "uin": 0
+            }
+          ],
+          "album": {
+            "id": 2045507,
+            "mid": "000RhOH93l65Ld",
+            "name": "白山茶",
+            "title": "白山茶",
+            "subtitle": "",
+            "time_public": "2017-05-05",
+            "pmid": "000RhOH93l65Ld_1"
+          },
+          "mv": {
+            "id": 0,
+            "vid": "",
+            "name": "",
+            "title": "",
+            "vt": 0
+          },
+          "interval": 254,
+          "isonly": 0,
+          "language": 0,
+          "genre": 1,
+          "index_cd": 0,
+          "index_album": 1,
+          "time_public": "2017-05-05",
+          "status": 0,
+          "fnote": 8005,
+          "file": {
+            "media_mid": "003GLbrK131Tzn",
+            "size_24aac": 0,
+            "size_48aac": 1554734,
+            "size_96aac": 3144213,
+            "size_192ogg": 5833794,
+            "size_192aac": 6195203,
+            "size_128mp3": 4074878,
+            "size_320mp3": 10186661,
+            "size_ape": 0,
+            "size_flac": 28565066,
+            "size_dts": 0,
+            "size_try": 0,
+            "try_begin": 78699,
+            "try_end": 109366,
+            "url": "",
+            "size_hires": 0,
+            "hires_sample": 0,
+            "hires_bitdepth": 0,
+            "b_30s": 0,
+            "e_30s": 0,
+            "size_96ogg": 2823984
+          },
+          "pay": {
+            "pay_month": 0,
+            "price_track": 0,
+            "price_album": 0,
+            "pay_play": 0,
+            "pay_down": 0,
+            "pay_status": 0,
+            "time_free": 0
+          },
+          "action": {
+            "switch": 134296851,
+            "msgid": 0,
+            "alert": 11,
+            "icons": 4680,
+            "msgshare": 0,
+            "msgfav": 0,
+            "msgdown": 0,
+            "msgpay": 0
+          },
+          "ksong": {
+            "id": 2785999,
+            "mid": "000ZUGoa3lg8Ml"
+          },
+          "volume": {
+            "gain": -8.42,
+            "peak": 1,
+            "lra": 12.018
+          },
+          "label": "0",
+          "url": "",
+          "bpm": 61,
+          "version": 0,
+          "trace": "",
+          "data_type": 0,
+          "modify_stamp": 0,
+          "pingpong": "",
+          "aid": 0,
+          "ppurl": "",
+          "tid": 0,
+          "ov": 1,
+          "sa": 0,
+          "es": "",
+          "singername": "陈雪凝"
+        }
+      },
+      {
+        "songInfo": {
+          "id": 237915775,
+          "type": 0,
+          "mid": "0009o0Xt3mj9FH",
+          "name": "王昭君",
+          "title": "王昭君",
+          "subtitle": "《王者荣耀》英雄主打歌",
+          "singer": [
+            {
+              "id": 1473880,
+              "mid": "004V53Ga0bV65j",
+              "name": "陈雪凝",
+              "title": "陈雪凝",
+              "type": 1,
+              "uin": 0
+            }
+          ],
+          "album": {
+            "id": 7901799,
+            "mid": "000sw5wL3fNyGx",
+            "name": "王昭君",
+            "title": "王昭君",
+            "subtitle": "《王者荣耀》英雄主打歌",
+            "time_public": "2019-09-13",
+            "pmid": "000sw5wL3fNyGx_4"
+          },
+          "mv": {
+            "id": 0,
+            "vid": "",
+            "name": "",
+            "title": "",
+            "vt": 0
+          },
+          "interval": 270,
+          "isonly": 1,
+          "language": 0,
+          "genre": 37,
+          "index_cd": 0,
+          "index_album": 1,
+          "time_public": "2019-09-13",
+          "status": 0,
+          "fnote": 4009,
+          "file": {
+            "media_mid": "0009o0Xt3mj9FH",
+            "size_24aac": 0,
+            "size_48aac": 1644040,
+            "size_96aac": 3288343,
+            "size_192ogg": 6016935,
+            "size_192aac": 6538611,
+            "size_128mp3": 4325235,
+            "size_320mp3": 10812798,
+            "size_ape": 0,
+            "size_flac": 58231636,
+            "size_dts": 0,
+            "size_try": 960887,
+            "try_begin": 84729,
+            "try_end": 112007,
+            "url": "",
+            "size_hires": 0,
+            "hires_sample": 0,
+            "hires_bitdepth": 0,
+            "b_30s": 0,
+            "e_30s": 60000,
+            "size_96ogg": 2979486
+          },
+          "pay": {
+            "pay_month": 1,
+            "price_track": 200,
+            "price_album": 0,
+            "pay_play": 0,
+            "pay_down": 1,
+            "pay_status": 0,
+            "time_free": 0
+          },
+          "action": {
+            "switch": 17413891,
+            "msgid": 14,
+            "alert": 2,
+            "icons": 8396668,
+            "msgshare": 0,
+            "msgfav": 0,
+            "msgdown": 0,
+            "msgpay": 6
+          },
+          "ksong": {
+            "id": 6202101,
+            "mid": "001uYFG80ubyPh"
+          },
+          "volume": {
+            "gain": -5.452,
+            "peak": 1,
+            "lra": 10.04
+          },
+          "label": "0",
+          "url": "",
+          "bpm": 65,
+          "version": 0,
+          "trace": "",
+          "data_type": 0,
+          "modify_stamp": 0,
+          "pingpong": "",
+          "aid": 0,
+          "ppurl": "",
+          "tid": 0,
+          "ov": 0,
+          "sa": 0,
+          "es": "",
+          "singername": "陈雪凝"
+        }
+      },
+      {
+        "songInfo": {
+          "id": 229112533,
+          "type": 0,
+          "mid": "001V2LNh1cm3we",
+          "name": "那个傻瓜",
+          "title": "那个傻瓜",
+          "subtitle": "",
+          "singer": [
+            {
+              "id": 1473880,
+              "mid": "004V53Ga0bV65j",
+              "name": "陈雪凝",
+              "title": "陈雪凝",
+              "type": 1,
+              "uin": 0
+            }
+          ],
+          "album": {
+            "id": 6311801,
+            "mid": "002JPVwu4XuGqP",
+            "name": "那个傻瓜",
+            "title": "那个傻瓜",
+            "subtitle": "",
+            "time_public": "2018-12-08",
+            "pmid": "002JPVwu4XuGqP_1"
+          },
+          "mv": {
+            "id": 0,
+            "vid": "",
+            "name": "",
+            "title": "",
+            "vt": 0
+          },
+          "interval": 267,
+          "isonly": 0,
+          "language": 0,
+          "genre": 0,
+          "index_cd": 0,
+          "index_album": 1,
+          "time_public": "2018-12-08",
+          "status": 0,
+          "fnote": 4009,
+          "file": {
+            "media_mid": "001V2LNh1cm3we",
+            "size_24aac": 0,
+            "size_48aac": 1627326,
+            "size_96aac": 3279028,
+            "size_192ogg": 6163207,
+            "size_192aac": 6464275,
+            "size_128mp3": 4288459,
+            "size_320mp3": 10720549,
+            "size_ape": 0,
+            "size_flac": 29939707,
+            "size_dts": 0,
+            "size_try": 0,
+            "try_begin": 73912,
+            "try_end": 101098,
+            "url": "",
+            "size_hires": 0,
+            "hires_sample": 0,
+            "hires_bitdepth": 0,
+            "b_30s": 0,
+            "e_30s": 0,
+            "size_96ogg": 3064674
+          },
+          "pay": {
+            "pay_month": 1,
+            "price_track": 200,
+            "price_album": 0,
+            "pay_play": 0,
+            "pay_down": 1,
+            "pay_status": 0,
+            "time_free": 0
+          },
+          "action": {
+            "switch": 17413891,
+            "msgid": 14,
+            "alert": 2,
+            "icons": 8396668,
+            "msgshare": 0,
+            "msgfav": 0,
+            "msgdown": 0,
+            "msgpay": 6
+          },
+          "ksong": {
+            "id": 5075266,
+            "mid": "001rbibE1LHuO9"
+          },
+          "volume": {
+            "gain": -7.062,
+            "peak": 1,
+            "lra": 8.01
+          },
+          "label": "0",
+          "url": "",
+          "bpm": 68,
+          "version": 0,
+          "trace": "",
+          "data_type": 0,
+          "modify_stamp": 0,
+          "pingpong": "",
+          "aid": 0,
+          "ppurl": "",
+          "tid": 0,
+          "ov": 0,
+          "sa": 0,
+          "es": "",
+          "singername": "陈雪凝"
+        }
+      },
+      {
+        "songInfo": {
+          "id": 236222503,
+          "type": 0,
+          "mid": "004K8Uvt3rWF1V",
+          "name": "十八",
+          "title": "十八",
+          "subtitle": "",
+          "singer": [
+            {
+              "id": 1473880,
+              "mid": "004V53Ga0bV65j",
+              "name": "陈雪凝",
+              "title": "陈雪凝",
+              "type": 1,
+              "uin": 0
+            }
+          ],
+          "album": {
+            "id": 7495681,
+            "mid": "000j68ff0YwYrd",
+            "name": "十八",
+            "title": "十八",
+            "subtitle": "",
+            "time_public": "2019-08-18",
+            "pmid": "000j68ff0YwYrd_1"
+          },
+          "mv": {
+            "id": 0,
+            "vid": "",
+            "name": "",
+            "title": "",
+            "vt": 0
+          },
+          "interval": 271,
+          "isonly": 0,
+          "language": 0,
+          "genre": 0,
+          "index_cd": 0,
+          "index_album": 1,
+          "time_public": "2019-08-18",
+          "status": 31,
+          "fnote": 0,
+          "file": {
+            "media_mid": "004K8Uvt3rWF1V",
+            "size_24aac": 0,
+            "size_48aac": 1650388,
+            "size_96aac": 3307977,
+            "size_192ogg": 5674260,
+            "size_192aac": 6556395,
+            "size_128mp3": 4339442,
+            "size_320mp3": 10848320,
+            "size_ape": 0,
+            "size_flac": 24201389,
+            "size_dts": 0,
+            "size_try": 960887,
+            "try_begin": 76972,
+            "try_end": 109413,
+            "url": "",
+            "size_hires": 0,
+            "hires_sample": 0,
+            "hires_bitdepth": 0,
+            "b_30s": 0,
+            "e_30s": 60000,
+            "size_96ogg": 2969414
+          },
+          "pay": {
+            "pay_month": 0,
+            "price_track": 0,
+            "price_album": 0,
+            "pay_play": 0,
+            "pay_down": 0,
+            "pay_status": 0,
+            "time_free": 0
+          },
+          "action": {
+            "switch": 603923,
+            "msgid": 0,
+            "alert": 11,
+            "icons": 4680,
+            "msgshare": 0,
+            "msgfav": 0,
+            "msgdown": 0,
+            "msgpay": 0
+          },
+          "ksong": {
+            "id": 6126313,
+            "mid": "002cBXMT15EJoZ"
+          },
+          "volume": {
+            "gain": -3.563,
+            "peak": 0.994,
+            "lra": 9.418
+          },
+          "label": "0",
+          "url": "",
+          "bpm": 63,
+          "version": 0,
+          "trace": "",
+          "data_type": 0,
+          "modify_stamp": 0,
+          "pingpong": "",
+          "aid": 0,
+          "ppurl": "",
+          "tid": 0,
+          "ov": 0,
+          "sa": 0,
+          "es": "",
+          "singername": "陈雪凝"
+        }
+      },
+      {
+        "songInfo": {
+          "id": 202909897,
+          "type": 0,
+          "mid": "000iLEz83jy0WW",
+          "name": "愚昧",
+          "title": "愚昧",
+          "subtitle": "",
+          "singer": [
+            {
+              "id": 1473880,
+              "mid": "004V53Ga0bV65j",
+              "name": "陈雪凝",
+              "title": "陈雪凝",
+              "type": 1,
+              "uin": 0
+            }
+          ],
+          "album": {
+            "id": 2127829,
+            "mid": "003sJU2v415UqR",
+            "name": "愚昧",
+            "title": "愚昧",
+            "subtitle": "",
+            "time_public": "2017-06-24",
+            "pmid": "003sJU2v415UqR_1"
+          },
+          "mv": {
+            "id": 0,
+            "vid": "",
+            "name": "",
+            "title": "",
+            "vt": 0
+          },
+          "interval": 253,
+          "isonly": 0,
+          "language": 0,
+          "genre": 1,
+          "index_cd": 0,
+          "index_album": 1,
+          "time_public": "2017-06-24",
+          "status": 0,
+          "fnote": 4009,
+          "file": {
+            "media_mid": "001E2GES4OH2NF",
+            "size_24aac": 0,
+            "size_48aac": 1557431,
+            "size_96aac": 3136380,
+            "size_192ogg": 5881459,
+            "size_192aac": 6181751,
+            "size_128mp3": 4063171,
+            "size_320mp3": 10157643,
+            "size_ape": 0,
+            "size_flac": 26837969,
+            "size_dts": 0,
+            "size_try": 0,
+            "try_begin": 71984,
+            "try_end": 100074,
+            "url": "",
+            "size_hires": 0,
+            "hires_sample": 0,
+            "hires_bitdepth": 0,
+            "b_30s": 0,
+            "e_30s": 0,
+            "size_96ogg": 2865959
+          },
+          "pay": {
+            "pay_month": 1,
+            "price_track": 200,
+            "price_album": 0,
+            "pay_play": 0,
+            "pay_down": 1,
+            "pay_status": 0,
+            "time_free": 0
+          },
+          "action": {
+            "switch": 17413891,
+            "msgid": 14,
+            "alert": 2,
+            "icons": 8396668,
+            "msgshare": 0,
+            "msgfav": 0,
+            "msgdown": 0,
+            "msgpay": 6
+          },
+          "ksong": {
+            "id": 2906740,
+            "mid": "002SxjPV1PU5q3"
+          },
+          "volume": {
+            "gain": -7.514,
+            "peak": 0.988,
+            "lra": 9.655
+          },
+          "label": "0",
+          "url": "",
+          "bpm": 67,
+          "version": 0,
+          "trace": "",
+          "data_type": 0,
+          "modify_stamp": 0,
+          "pingpong": "",
+          "aid": 0,
+          "ppurl": "",
+          "tid": 0,
+          "ov": 0,
+          "sa": 0,
+          "es": "",
+          "singername": "陈雪凝"
+        }
+      },
+      {
+        "songInfo": {
+          "id": 217930060,
+          "type": 0,
+          "mid": "001bxJQH4fgT53",
+          "name": "没那么喜欢",
+          "title": "没那么喜欢",
+          "subtitle": "",
+          "singer": [
+            {
+              "id": 1473880,
+              "mid": "004V53Ga0bV65j",
+              "name": "陈雪凝",
+              "title": "陈雪凝",
+              "type": 1,
+              "uin": 0
+            }
+          ],
+          "album": {
+            "id": 4750883,
+            "mid": "001I1VgP0heNWz",
+            "name": "没那么喜欢",
+            "title": "没那么喜欢",
+            "subtitle": "",
+            "time_public": "2018-11-21",
+            "pmid": "001I1VgP0heNWz_1"
+          },
+          "mv": {
+            "id": 0,
+            "vid": "",
+            "name": "",
+            "title": "",
+            "vt": 0
+          },
+          "interval": 245,
+          "isonly": 0,
+          "language": 0,
+          "genre": 1,
+          "index_cd": 0,
+          "index_album": 1,
+          "time_public": "2018-11-21",
+          "status": 0,
+          "fnote": 4009,
+          "file": {
+            "media_mid": "001G18Ma36YgD5",
+            "size_24aac": 0,
+            "size_48aac": 1489880,
+            "size_96aac": 2994198,
+            "size_192ogg": 5508491,
+            "size_192aac": 5949430,
+            "size_128mp3": 3932362,
+            "size_320mp3": 9830602,
+            "size_ape": 0,
+            "size_flac": 26304296,
+            "size_dts": 0,
+            "size_try": 0,
+            "try_begin": 75951,
+            "try_end": 106784,
+            "url": "",
+            "size_hires": 0,
+            "hires_sample": 0,
+            "hires_bitdepth": 0,
+            "b_30s": 0,
+            "e_30s": 0,
+            "size_96ogg": 2794784
+          },
+          "pay": {
+            "pay_month": 1,
+            "price_track": 200,
+            "price_album": 0,
+            "pay_play": 0,
+            "pay_down": 1,
+            "pay_status": 0,
+            "time_free": 0
+          },
+          "action": {
+            "switch": 17413891,
+            "msgid": 14,
+            "alert": 2,
+            "icons": 8396668,
+            "msgshare": 0,
+            "msgfav": 0,
+            "msgdown": 0,
+            "msgpay": 6
+          },
+          "ksong": {
+            "id": 4884366,
+            "mid": "003svV2U1inj6W"
+          },
+          "volume": {
+            "gain": -8.439,
+            "peak": 0.97,
+            "lra": 8.33
+          },
+          "label": "0",
+          "url": "",
+          "bpm": 63,
+          "version": 0,
+          "trace": "",
+          "data_type": 0,
+          "modify_stamp": 0,
+          "pingpong": "",
+          "aid": 0,
+          "ppurl": "",
+          "tid": 0,
+          "ov": 0,
+          "sa": 0,
+          "es": "",
+          "singername": "陈雪凝"
+        }
+      },
+      {
+        "songInfo": {
+          "id": 215575798,
+          "type": 0,
+          "mid": "004ezzid1izfnY",
+          "name": "清守",
+          "title": "清守",
+          "subtitle": "",
+          "singer": [
+            {
+              "id": 1473880,
+              "mid": "004V53Ga0bV65j",
+              "name": "陈雪凝",
+              "title": "陈雪凝",
+              "type": 1,
+              "uin": 0
+            }
+          ],
+          "album": {
+            "id": 4322965,
+            "mid": "0038UiMn44dG2Y",
+            "name": "清守",
+            "title": "清守",
+            "subtitle": "",
+            "time_public": "2018-08-10",
+            "pmid": "0038UiMn44dG2Y_1"
+          },
+          "mv": {
+            "id": 0,
+            "vid": "",
+            "name": "",
+            "title": "",
+            "vt": 0
+          },
+          "interval": 222,
+          "isonly": 0,
+          "language": 0,
+          "genre": 1,
+          "index_cd": 0,
+          "index_album": 1,
+          "time_public": "2018-08-10",
+          "status": 0,
+          "fnote": 4009,
+          "file": {
+            "media_mid": "004ezzid1izfnY",
+            "size_24aac": 0,
+            "size_48aac": 1348727,
+            "size_96aac": 2707051,
+            "size_192ogg": 5331115,
+            "size_192aac": 5344336,
+            "size_128mp3": 3557440,
+            "size_320mp3": 8893316,
+            "size_ape": 45521083,
+            "size_flac": 45435965,
+            "size_dts": 0,
+            "size_try": 0,
+            "try_begin": 0,
+            "try_end": 0,
+            "url": "",
+            "size_hires": 0,
+            "hires_sample": 0,
+            "hires_bitdepth": 0,
+            "b_30s": 0,
+            "e_30s": 0,
+            "size_96ogg": 2709542
+          },
+          "pay": {
+            "pay_month": 1,
+            "price_track": 200,
+            "price_album": 0,
+            "pay_play": 0,
+            "pay_down": 1,
+            "pay_status": 0,
+            "time_free": 0
+          },
+          "action": {
+            "switch": 17413891,
+            "msgid": 14,
+            "alert": 2,
+            "icons": 8396668,
+            "msgshare": 0,
+            "msgfav": 0,
+            "msgdown": 0,
+            "msgpay": 6
+          },
+          "ksong": {
+            "id": 4470346,
+            "mid": "0047s2Ox1rVqeK"
+          },
+          "volume": {
+            "gain": -8.142,
+            "peak": 0.97,
+            "lra": 5.784
+          },
+          "label": "0",
+          "url": "",
+          "bpm": 100,
+          "version": 0,
+          "trace": "",
+          "data_type": 0,
+          "modify_stamp": 0,
+          "pingpong": "",
+          "aid": 0,
+          "ppurl": "",
+          "tid": 0,
+          "ov": 0,
+          "sa": 0,
+          "es": "",
+          "singername": "陈雪凝"
+        }
+      },
+      {
+        "songInfo": {
+          "id": 236813369,
+          "type": 0,
+          "mid": "004C5khA1dr6GW",
+          "name": "如虹",
+          "title": "如虹",
+          "subtitle": "《攀登者》电影宣传推广曲",
+          "singer": [
+            {
+              "id": 1473880,
+              "mid": "004V53Ga0bV65j",
+              "name": "陈雪凝",
+              "title": "陈雪凝",
+              "type": 1,
+              "uin": 0
+            },
+            {
+              "id": 2905963,
+              "mid": "000NKzgS3LsFf1",
+              "name": "UNINE夏瀚宇",
+              "title": "UNINE夏瀚宇",
+              "type": 0,
+              "uin": 0
+            }
+          ],
+          "album": {
+            "id": 7617783,
+            "mid": "001o0lf734qTeb",
+            "name": "如虹",
+            "title": "如虹",
+            "subtitle": "《攀登者》电影宣传推广曲",
+            "time_public": "2019-08-26",
+            "pmid": "001o0lf734qTeb_1"
+          },
+          "mv": {
+            "id": 1569064,
+            "vid": "s0032j8gx9r",
+            "name": "",
+            "title": "",
+            "vt": 0
+          },
+          "interval": 292,
+          "isonly": 1,
+          "language": 0,
+          "genre": 37,
+          "index_cd": 0,
+          "index_album": 1,
+          "time_public": "2019-08-26",
+          "status": 0,
+          "fnote": 4009,
+          "file": {
+            "media_mid": "004C5khA1dr6GW",
+            "size_24aac": 0,
+            "size_48aac": 1778018,
+            "size_96aac": 3575568,
+            "size_192ogg": 6346062,
+            "size_192aac": 7053662,
+            "size_128mp3": 4684258,
+            "size_320mp3": 11710361,
+            "size_ape": 0,
+            "size_flac": 60719068,
+            "size_dts": 0,
+            "size_try": 960887,
+            "try_begin": 87320,
+            "try_end": 123834,
+            "url": "",
+            "size_hires": 0,
+            "hires_sample": 0,
+            "hires_bitdepth": 0,
+            "b_30s": 0,
+            "e_30s": 60000,
+            "size_96ogg": 3287362
+          },
+          "pay": {
+            "pay_month": 1,
+            "price_track": 200,
+            "price_album": 0,
+            "pay_play": 0,
+            "pay_down": 1,
+            "pay_status": 0,
+            "time_free": 0
+          },
+          "action": {
+            "switch": 17413891,
+            "msgid": 14,
+            "alert": 2,
+            "icons": 8396668,
+            "msgshare": 0,
+            "msgfav": 0,
+            "msgdown": 0,
+            "msgpay": 6
+          },
+          "ksong": {
+            "id": 6158747,
+            "mid": "003BlDpT1GKLlZ"
+          },
+          "volume": {
+            "gain": -7.992,
+            "peak": 0.928,
+            "lra": 8.889
+          },
+          "label": "0",
+          "url": "",
+          "bpm": 98,
+          "version": 0,
+          "trace": "",
+          "data_type": 0,
+          "modify_stamp": 0,
+          "pingpong": "",
+          "aid": 0,
+          "ppurl": "",
+          "tid": 0,
+          "ov": 0,
+          "sa": 0,
+          "es": "",
+          "singername": "陈雪凝/UNINE夏瀚宇"
+        }
+      }
+    ],
+    "total": 53,
+    "fans": 2397308
+  },
+  "seoData": {
+    "title": "陈雪凝的音乐主页",
+    "keywords": [
+      "陈雪凝",
+      "陈雪凝的歌",
+      "陈雪凝歌曲",
+      "陈雪凝新歌",
+      "陈雪凝音乐",
+      "无损音乐,在线听歌,音乐下载,音乐播放器,QQ音乐"
+    ],
+    "description": "陈雪凝热门歌曲尽在QQ音乐, 音乐人陈雪凝（SherlyChan）2001年生 2017年只身下成都开始音乐创作之路2018年4月发行首张录音室专辑《拾陆》，随之完成为期三个月的全国29城巡演"
+  },
+  "jsonld": {
+    "@context": "https://ziyuan.baidu.com/contexts/cambrian.jsonld",
+    "@id": "https://i.y.qq.com/n2/m/share/details/singer.html?singermid=004V53Ga0bV65j&ADTAG=myqq&from=myqq&channel=10007100",
+    "appid": "1605244540115410",
+    "title": "陈雪凝歌曲_陈雪凝最新单曲在线试听_歌手_QQ音乐_听我想听的歌",
+    "images": [
+      "https://y.gtimg.cn/music/photo_new/T001R150x150M000004V53Ga0bV65j.jpg?max_age=2592000"
+    ],
+    "pubDate": "2020-01-08T18:26:51"
+  },
+  "mv": {},
+  "album": {}
+}
