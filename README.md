@@ -3,14 +3,20 @@
 ## Project setup
 ```
 npm install
+
+```
+### 后台运行
+
+```
+cd到src/api页面，然后运行node server
 ```
 
-### Compiles and hot-reloads for development
+### 前端运行
 ```
 npm run serve
 ```
 
-### Compiles and minifies for production
+### 生产环境项目打包
 ```
 npm run build
 ```
