@@ -8,7 +8,7 @@ npm install
 ### 后台运行
 
 ```
-cd到src/api页面，然后运行node server
+cd到src/api文件夹，然后运行node server
 ```
 
 ### 前端运行
